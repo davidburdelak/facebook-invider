@@ -13,15 +13,7 @@ The code retrieves the list of buttons visible in the window, and then simulates
 3. Enter the code below
 4. Scroll down to load more buttons
 
-#### Events
-
-```
-javascript:var inputs = document.getElementsByClassName('_1pu2');
-for(var i=0;i<inputs.length;i++)
-{ inputs[i].click(); }
-```
-
-#### Pages
+#### Events/Pages
 
 ```
 javascript:var inputs = document.getElementsByClassName('_1pu2');
