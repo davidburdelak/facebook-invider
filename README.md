@@ -4,8 +4,8 @@
 
 1. Open window with inviding
 2. Make a keyboard shortcut and go to "Console"
-• Chrome: [Ctrl]+[Shift]+[I]
-• Firefox: [Ctrl]+[Shift]+[K]
+- Chrome: [Ctrl]+[Shift]+[I]
+- Firefox: [Ctrl]+[Shift]+[K]
 3. Enter the code below
 
 #### Events
